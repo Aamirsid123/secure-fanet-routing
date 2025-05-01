@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/scratch",
+      "program": "/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/scratch/build/Debug/outDebug"
+    }
+  ]
+}

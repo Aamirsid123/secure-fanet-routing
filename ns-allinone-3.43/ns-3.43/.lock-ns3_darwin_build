@@ -1,0 +1,31 @@
+#! /usr/bin/env python3
+
+launch_dir = '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43'
+run_dir = '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43'
+top_dir = '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43'
+out_dir = '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build'
+
+
+NS3_ENABLED_MODULES = ['ns3-wimax', 'ns3-wifi', 'ns3-virtual-net-device', 'ns3-uan', 'ns3-traffic-control', 'ns3-topology-read', 'ns3-stats', 'ns3-spectrum', 'ns3-sixlowpan', 'ns3-propagation', 'ns3-point-to-point-layout', 'ns3-point-to-point', 'ns3-olsr', 'ns3-nix-vector-routing', 'ns3-network', 'ns3-netanim', 'ns3-mobility', 'ns3-mesh', 'ns3-lte', 'ns3-lr-wpan', 'ns3-internet-apps', 'ns3-internet', 'ns3-flow-monitor', 'ns3-energy', 'ns3-ecc-security', 'ns3-dsr', 'ns3-dsdv', 'ns3-csma-layout', 'ns3-csma', 'ns3-core', 'ns3-config-store', 'ns3-buildings', 'ns3-bridge', 'ns3-applications', 'ns3-aodv', 'ns3-antenna', ]
+NS3_ENABLED_CONTRIBUTED_MODULES = []
+NS3_MODULE_PATH = ['/Users/aamirsiddiqui/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh', '/Users/aamirsiddiqui/.pyenv/versions/3.10.13/bin', '/Users/aamirsiddiqui/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh', '/Users/aamirsiddiqui/.pyenv/versions/3.10.13/bin', '/Library/Frameworks/Python.framework/Versions/3.13/bin', '/opt/homebrew/bin', '/opt/homebrew/sbin', '/Library/Frameworks/Python.framework/Versions/3.8/bin', '/Library/Frameworks/Python.framework/Versions/3.12/bin', '/usr/local/bin', '/System/Cryptexes/App/usr/bin', '/usr/bin', '/bin', '/usr/sbin', '/sbin', '/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin', '/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin', '/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin', '/Library/Apple/usr/bin', '/Users/aamirsiddiqui/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh', '/Users/aamirsiddiqui/.pyenv/versions/3.10.13/bin', '/Users/aamirsiddiqui/anaconda3/bin', '/Users/aamirsiddiqui/anaconda3/condabin', '/Library/Frameworks/Python.framework/Versions/3.13/bin', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/lib']
+ENABLE_EXAMPLES = False
+ENABLE_TESTS = False
+ENABLE_OPENFLOW = False
+NSCLICK = False
+ENABLE_BRITE = False
+ENABLE_SUDO = False
+ENABLE_PYTHON_BINDINGS = False
+EXAMPLE_DIRECTORIES = []
+APPNAME = 'ns'
+BUILD_PROFILE = 'default'
+VERSION = '3.43' 
+BUILD_VERSION_STRING = '' 
+PYTHON = ['/opt/homebrew/bin/python3']
+VALGRIND_FOUND = False 
+
+
+ns3_runnable_programs = ['/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/utils/perf/ns3.43-perf-io-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/utils/ns3.43-print-introspected-doxygen-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/utils/ns3.43-bench-packets-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/utils/ns3.43-bench-scheduler-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/subdir/ns3.43-scratch-subdir-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/nested-subdir/ns3.43-scratch-nested-subdir-executable-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-secure-fanet-routing-compare-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-secure-adhoc-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-scratch-simulator-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-manet-routing-compare-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/build/scratch/ns3.43-ecc-adhoc-default', '/Users/aamirsiddiqui/Desktop/Project/ns-allinone-3.43/ns-3.43/cmake-cache/ns3.43-stdlib_pch_exec-default', ]
+
+ns3_runnable_scripts = []
+
